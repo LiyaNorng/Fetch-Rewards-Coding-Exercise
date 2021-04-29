@@ -13,7 +13,7 @@ Chome Web Driver https://sites.google.com/a/chromium.org/chromedriver/downloads
 Selenium https://selenium-python.readthedocs.io/
 Python3
 
-SetUp:
+Set Up:
 Install python onto your system. Using pip to install Selenium. Download Chrome Web Driver. Downlaod and install Sublime text. Set the path according to the Chrome Web Driver location. 
 
 Algorithm: 
