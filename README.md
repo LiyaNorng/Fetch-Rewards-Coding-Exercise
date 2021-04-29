@@ -23,7 +23,7 @@ Algorithm:
 	But if the left table is less than the right table, then we would toss everthing from mid + 1 
 	to n (size of array). Or if the left table is greater than the right table, then we would toss everything from 0 to mid - 1. 
 	Doing this we are dividing the search item by half of the size of the array and conquer it by picking the table that is less than. This would give us time complexity of O(logn) time. 
-
+	SideNote: Since I'm searching for the Fake Gold Bar. It's best to wait until I find the Fake Gold to select one of the item in the array of Gold Bars to get the Alert. 
 
 
 -Liya Norng
